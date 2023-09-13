@@ -1,2 +1,1 @@
-# EGZ-1er-repository-github
-Repository Modulo 2 PreCourse Herry
+Prueba de primer repositorio en el Modulo 2 del PreCourse, como clonar y abrir el mismo ene l ordenador para modificar.
